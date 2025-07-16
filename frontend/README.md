@@ -1,4 +1,5 @@
 ##This project was created for educational purposes only.
+
 ##Technology stack: JavaScript (JS), React, Redux Toolkit (RTK), RTK Query, React Router DOM, Material-UI (MUI), and CSS Modules.
 Before running the project, navigate to the frontend folder by typing this command in your local terminal: cd frontend. Next, install the node and npm dependencies. Then, in the local terminal, enter the command npm i.
 After installation, a folder called node_modules will be created. This is where all the installed third-party packages will be stored.
