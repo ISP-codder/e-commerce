@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.links {
+  text-transform: uppercase;
+  margin-right: 20px;
+  color: #dd8dff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+.links:hover {
+  opacity: 0.3;
+}
+
+.logo-link {
+  text-transform: uppercase;
+  transition: 0.3s ease;
+  color: #ffefff;
+  margin-left: 10px;
+}
+.logo-link:hover {
+  opacity: 0.3;
+}
+.color {
+  background: linear-gradient(to right, #e035d1, #7c1af8);
+}
